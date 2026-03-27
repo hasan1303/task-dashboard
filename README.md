@@ -26,23 +26,31 @@ Open the project folder and run:
 👉 Open index.html in your browser
 
 📂 Project Structure
+
+## 📂 Project Structure
+
+```bash
 task-manager/
 ├── index.html        # Main entry file
 ├── app.js            # Application logic (Vue)
 ├── style.css         # Styling
 ├── preview.png       # Project preview image
 └── README.md
+```
+## 🧠 Project Highlights
 
-🧠 Project Highlights
-Built using core Vue.js concepts in a real project scenario
-Component-based architecture for better scalability
-Focus on clean UI and maintainable code
-Hands-on implementation of reactive data handling
-🔮 Future Improvements
-🧲 Drag & drop functionality
-📦 Improved state management
-☁️ Backend integration (API / Firebase)
-👨‍💻 Author
+- Built using core Vue.js concepts in a real project scenario  
+- Component-based architecture for better scalability  
+- Focus on clean UI and maintainable code  
+- Hands-on implementation of reactive data handling  
 
-Hasan Pisli
+## 🔮 Future Improvements
+
+- 🧲 Drag & drop functionality  
+- 📦 Improved state management  
+- ☁️ Backend integration (API / Firebase)  
+
+## 👨‍💻 Author
+
+Hasan Pisli  
 Frontend Developer (Vue.js / WordPress)
