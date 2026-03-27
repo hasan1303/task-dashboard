@@ -27,14 +27,12 @@ Open the project folder and run:
 
 📂 Project Structure
 task-manager/
-│── index.html
-│── app.js
-│── router.js
-│── components/
-│   ├── TaskCard.js
-│   ├── TaskColumn.js
-│── styles/
-│   └── style.css
+├── index.html        # Main entry file
+├── app.js            # Application logic (Vue)
+├── style.css         # Styling
+├── preview.png       # Project preview image
+└── README.md
+
 🧠 Project Highlights
 Built using core Vue.js concepts in a real project scenario
 Component-based architecture for better scalability
